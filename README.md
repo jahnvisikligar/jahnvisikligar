@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an image-processing project<br>👯 I’m looking to collaborate on Data Science, Machine Learning, Artificial Intelligence and Computer Vision<br>🤝 I’m looking for help with my career progression into AI/ML<br>🌱 I’m currently learning to implement ML models in MS Azure<br>💬 Ask me about technology and fashion<br>⚡ Fun fact I love to travel and sometimes write poems<br>
+🔭 I’m currently working on an image-processing project<br>👯 I’m looking to collaborate on Data Science, Machine Learning, Artificial Intelligence and Computer Vision<br>🤝 I’m looking for help with my career progression into AI/ML<br>🌱 I’m currently learning to implement ML/AI concepts in MS Azure<br>💬 Ask me about technology and fashion<br>⚡ Fun fact I love to travel and sometimes write poems<br>
 
 
 ## 🌐 Socials:
