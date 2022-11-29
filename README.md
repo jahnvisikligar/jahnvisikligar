@@ -10,8 +10,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=jahnvisikligar&theme=graywhite&show_icons=true" alt="Jahnvi's Github readme stats">
-    <img height="175em" src="http://github-readme-streak-stats.herokuapp.com?user=jahnvisikligar&&theme=graywhite&show_icons=true" alt="jahnvisikligar"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jahnvisikligar&theme=graywhite&show_icons=true" alt="Jahnvi's Github readme stats">
+    <img height="165em" src="http://github-readme-streak-stats.herokuapp.com?user=jahnvisikligar&&theme=graywhite&show_icons=true" alt="jahnvisikligar"/>
 </p>
 
 ## 🏆 GitHub Trophies
