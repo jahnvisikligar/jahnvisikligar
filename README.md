@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on an image-processing project<br>👯 I’m looking to collaborate on Data Science, Machine Learning, Artificial Intelligence and Computer Vision<br>🤝 I’m looking for help with my career progression into AI/ML<br>🌱 I’m currently learning to implement ML/AI concepts in MS Azure<br>💬 Ask me about technology and fashion<br>⚡ Fun fact I love to travel and sometimes write poems
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jahnvi.sikligar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jlovatic12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jahnvi-sikligar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Crafty_Ad_5359) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JanR0x11)
 ## 💻 Tech Stack:
