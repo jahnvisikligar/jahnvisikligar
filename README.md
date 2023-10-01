@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Wacky Technophile who is in the process of continuous learning and growing........
+Wacky Technophile with a weird sense of humour who is in the process of continuous learning and growing........
 <br>💬 Ask me about technology, fashion, Series, Harry P0tteR and Star Wars
 
 ## 🌐 Socials:
