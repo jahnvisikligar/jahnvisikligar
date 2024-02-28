@@ -12,7 +12,7 @@ Wacky Technophile with a weird sense of humour who is in the process of continuo
 ## Blog
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://jahnviwritesaboutai.hashnode.dev/)
 
-## 💰 You can help me by Donating
+## 💰 Your support encourages me to do more. Support me by donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/jahnvis07) 
 
 #### ✍️ Random Dev Quote
