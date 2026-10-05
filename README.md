@@ -12,7 +12,8 @@ Building The Confidence Code
 
 
 ## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23453315/jas?tab=profile) [![Threads](https://img.shields.io/badge/-Threads-000000?logo=threads&logoColor=white)](https://www.threads.net/@your_username)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23453315/jas?tab=profile) [![Threads](https://img.shields.io/badge/-Threads-000000?logo=threads&logoColor=white)](https://www.threads.net/@your_username) [![Accredible](https://img.shields.io/badge/Accredible-Credentials-0A66C2?style=plastic&logo=acclaim&logoColor=white)](https://www.credential.net/profile/jahnvisikligar0703/wallet)
+
 
 <!--## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23453315/jas?tab=profile) [![Threads](https://img.shields.io/badge/-Threads-FE7A16?logo=threads&logoColor=white)](https://stackoverflow.com/users/23453315/jas?tab=profile)-->
