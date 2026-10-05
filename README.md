@@ -12,8 +12,8 @@ Building The Confidence Code
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=plastic&logo=zoom&logoColor=white)
 
 
-## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23453315/jas?tab=profile) [![Threads](https://img.shields.io/badge/-Threads-000000?logo=threads&logoColor=white)](https://www.threads.net/@your_username) [![Accredible](https://img.shields.io/badge/Accredible-Credentials-0A66C2?style=plastic&logo=acclaim&logoColor=white)](https://www.credential.net/profile/jahnvisikligar0703/wallet) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/jahnvisikligar) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=plastic&logo=huggingface&logoColor=black)](https://huggingface.co/JS21)
+## 🌐 Connect & Explore:
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23453315/jas?tab=profile) [![Threads](https://img.shields.io/badge/-Threads-000000?logo=threads&logoColor=white)](https://www.threads.net/@your_username) [![Accredible](https://img.shields.io/badge/Accredible-Credentials-0A66C2?style=plastic&logo=acclaim&logoColor=white)](https://www.credential.net/profile/jahnvisikligar0703/wallet) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/jahnvisikligar) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=plastic&logo=huggingface&logoColor=black)](https://huggingface.co/JS21) [![ThAT](https://img.shields.io/badge/ThAT-Ambassador-000000?style=plastic&logoColor=white)](https://www.thinkingaboutthinking.org/fellowshiphub/fellowship/jahnvi-sikligar/feed)
 
 
 
