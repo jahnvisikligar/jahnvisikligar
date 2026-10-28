@@ -23,6 +23,7 @@ Building The Confidence Code
 
 ## 💰 Your support encourages me to do more
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/jahnvis07)
+[![Sponsor me](https://img.shields.io/badge/Sponsor-GitHub-pink?logo=github)](https://github.com/sponsors/jahnvisikligar)
 
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
